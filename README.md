@@ -160,6 +160,7 @@ The tests ensure that all critical functionalities are thoroughly verified, incl
 - Enhance user interface with colors and formatting for better usability
 - Consider importing/exporting data in other formats (CSV)
 - Implement Book import from file
+- Add logging with levels to track application workflow and more convenient debug
 
 ## Licence
 
