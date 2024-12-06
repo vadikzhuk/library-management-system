@@ -1,0 +1,3 @@
+# Exclude pytest cache directory
+.pytest_cache/
+__pycache__/
