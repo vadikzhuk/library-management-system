@@ -1,0 +1,72 @@
+[
+    {
+        "id": "de305d54-75b4-431b-adb2-eb6b9e546014",
+        "title": "Последний кольценосец",
+        "author": "Кирилл Еськов",
+        "year": "1999",
+        "status": true
+    },
+    {
+        "id": "c94c4d52-8f6f-4df2-94d1-ffad7e5486dd",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "year": "1949",
+        "status": false
+    },
+    {
+        "id": "3c6e0b8a-9a0b-4d63-9a0c-ffbf7eafb91d",
+        "title": "Gesta Francorum",
+        "author": "неизвестный автор",
+        "year": "1100",
+        "status": true
+    },
+    {
+        "id": "6f4c4d52-7f6e-5df2-91d1-efad7e5484db",
+        "title": "Гарри Поттер и методы рационального мышления",
+        "author": "Элиэзер Юдковский",
+        "year": "2010",
+        "status": false
+    },
+    {
+        "id": "e8b7be43-d5c2-43e7-9123-3f9b7922a76e",
+        "title": "Елизавета Бам",
+        "author": "Даниил Хармс",
+        "year": "1927",
+        "status": true
+    },
+    {
+        "id": "fbd2c471-a556-4d6e-9e43-5e9b87f7134e",
+        "title": "Остров Эпиорниса",
+        "author": "Герберт Уэллс",
+        "year": "1894",
+        "status": false
+    },
+    {
+        "id": "27ae4f3d-b1c5-49d8-8a6b-2b6c7c0b93f6",
+        "title": "Трое на четырёх колёсах",
+        "author": "Джером К. Джером",
+        "year": "1900",
+        "status": true
+    },
+    {
+        "id": "2c7a4d8a-34b6-4d1b-847d-bd9e7b5e95e2",
+        "title": "Посредник",
+        "author": "Фредерик Форсайт",
+        "year": "1989",
+        "status": true
+    },
+    {
+        "id": "83c1f1b5-4148-41b4-b5cd-d7e637e842f7",
+        "title": "Пассажир",
+        "author": "Жан-Кристоф Гранже",
+        "year": "2011",
+        "status": false
+    },
+    {
+        "id": "3f4e1e91-9e63-4c7f-80a2-614c435f72ad",
+        "title": "Жилой комплекс «Курицын»",
+        "author": "Дмитрий Петров",
+        "year": "2023",
+        "status": true
+    }
+]
